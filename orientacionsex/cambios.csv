@@ -1,0 +1,194 @@
+,pais_es,datos_2017,datos_2019
+0,Argelia,ilegal,ilegal
+1,Angola,ilegal,legal
+2,Benin,legal,legal
+3,Botswana,ilegal,ilegal
+4,Burkina Faso,legal,legal
+5,Burundi,ilegal,ilegal
+6,Camerún,ilegal,ilegal
+7,Cabo Verde,legal,legal
+8,República Centroafricana,legal,legal
+9,Chad,legal,ilegal
+10,Comoras,ilegal,ilegal
+11,Congo,legal,legal
+12,Costa de Marfil,legal,legal
+13,República Democrática del Congo,legal,legal
+14,Djibouti,legal,legal
+15,Egipto,de_facto_ilegal,de_facto_ilegal
+16,Guinea Ecuatorial,legal,legal
+17,Eritrea,ilegal,ilegal
+18,Eswatini,ilegal,ilegal
+19,Etiopía,ilegal,ilegal
+20,Gabón,legal,legal
+21,Gambia,ilegal,ilegal
+22,Ghana,ilegal,ilegal
+23,Guinea,ilegal,ilegal
+24,Guinea-Bissau,legal,legal
+25,Kenia,ilegal,ilegal
+26,Lesoto,legal,legal
+27,Liberia,ilegal,ilegal
+28,Libia,ilegal,ilegal
+29,Madagascar,legal,legal
+30,Malawi,ilegal,ilegal
+31,mali,legal,legal
+32,Mauritania,ilegal,ilegal
+33,Isla mauricio,ilegal,ilegal
+34,Marruecos,ilegal,ilegal
+35,Mozambique,legal,legal
+36,Namibia,ilegal,ilegal
+37,Níger,legal,legal
+38,Nigeria,ilegal,ilegal
+39,Ruanda,legal,legal
+40,Santo Tomé y Príncipe,legal,legal
+41,Senegal,ilegal,ilegal
+42,Seychelles,legal,legal
+43,Sierra Leona,ilegal,ilegal
+44,Somalia,ilegal,ilegal
+45,Sudáfrica,legal,legal
+46,Sudán del Sur,ilegal,ilegal
+47,Sudán,ilegal,ilegal
+48,Tanzania,ilegal,ilegal
+49,Togo,ilegal,ilegal
+50,Túnez,ilegal,ilegal
+51,Uganda,ilegal,ilegal
+52,Zambia,ilegal,ilegal
+53,Zimbabue,ilegal,ilegal
+54,Antigua y Barbuda,ilegal,ilegal
+55,Argentina,legal,legal
+56,Bahamas,legal,legal
+57,Barbados,ilegal,ilegal
+58,Belice,legal,legal
+59,Bolivia,legal,legal
+60,Brasil,legal,legal
+61,Costa Rica,legal,legal
+62,Chile,legal,legal
+63,Colombia,legal,legal
+64,Cuba,legal,legal
+65,Dominica,ilegal,ilegal
+66,República Dominicana,legal,legal
+67,Ecuador,legal,legal
+68,El Salvador,legal,legal
+69,Granada,ilegal,ilegal
+70,Guatemala,legal,legal
+71,Guayana,ilegal,ilegal
+72,Haití,legal,legal
+73,Honduras,legal,legal
+74,Jamaica,ilegal,ilegal
+75,México,legal,legal
+76,Nicaragua,legal,legal
+77,Panamá,legal,legal
+78,Paraguay,legal,legal
+79,Perú,legal,legal
+80,St Kitts y Nevis,ilegal,ilegal
+81,Santa Lucía,ilegal,ilegal
+82,San Vicente y las Granadinas,ilegal,ilegal
+83,Surinam,legal,legal
+84,Trinidad y Tobago,ilegal,legal
+85,Uruguay,legal,legal
+86,Venezuela,legal,legal
+87,Canadá,legal,legal
+88,Estados Unidos,legal,legal
+89,Afganistán,ilegal,ilegal
+90,Bahrein,legal,legal
+91,Bangladesh,ilegal,ilegal
+92,Bután,ilegal,ilegal
+93,Brunei Darussalam,ilegal,ilegal
+94,Camboya,legal,legal
+95,China,legal,legal
+96,Timor del Este,legal,legal
+97,India,ilegal,legal
+98,Indonesia,legal,legal
+99,Irak,ilegal,de_facto_ilegal
+100,Irán,ilegal,ilegal
+101,Israel,legal,legal
+102,Japón,legal,legal
+103,Jordán,legal,legal
+104,Kazajstán,legal,legal
+105,Kuwait,ilegal,ilegal
+106,Kirguizistán,legal,legal
+107,Laos,legal,legal
+108,Líbano,ilegal,ilegal
+109,Malasia,ilegal,ilegal
+110,Maldivas,ilegal,ilegal
+111,Mongolia,legal,legal
+112,Myanmar,ilegal,ilegal
+113,Nepal,legal,legal
+114,Corea del Norte,legal,legal
+115,Omán,ilegal,ilegal
+116,Pakistán,ilegal,ilegal
+117,Filipinas,legal,legal
+118,Katar,ilegal,ilegal
+119,Arabia Saudita,ilegal,ilegal
+120,Singapur,ilegal,ilegal
+121,Corea del Sur,legal,legal
+122,Sri Lanka,ilegal,ilegal
+123,Siria,ilegal,ilegal
+124,Tayikistán,legal,legal
+125,Tailandia,legal,legal
+126,Turkmenistán,ilegal,ilegal
+127,Vietnam,legal,legal
+128,Emiratos Árabes Unidos,ilegal,ilegal
+129,Uzbekistán,ilegal,ilegal
+130,Yemen,ilegal,ilegal
+131,Albania,legal,legal
+132,Andorra,legal,legal
+133,Armenia,legal,legal
+134,Austria,legal,legal
+135,Azerbaiyán,legal,legal
+136,Bielorrusia,legal,legal
+137,Bélgica,legal,legal
+138,Bosnia y Herzegovina,legal,legal
+139,Bulgaria,legal,legal
+140,Croacia,legal,legal
+141,Chipre,legal,legal
+142,Republica checa,legal,legal
+143,Dinamarca,legal,legal
+144,Estonia,legal,legal
+145,Finlandia,legal,legal
+146,Francia,legal,legal
+147,Georgia,legal,legal
+148,Alemania,legal,legal
+149,Grecia,legal,legal
+150,Hungría,legal,legal
+151,Islandia,legal,legal
+152,Irlanda,legal,legal
+153,Italia,legal,legal
+154,Letonia,legal,legal
+155,Liechtenstein,legal,legal
+156,Lituania,legal,legal
+157,Luxemburgo,legal,legal
+158,Malta,legal,legal
+159,Moldavia,legal,legal
+160,Mónaco,legal,legal
+161,Montenegro,legal,legal
+162,Países Bajos,legal,legal
+163,Macedonia del Norte,legal,legal
+164,Noruega,legal,legal
+165,Polonia,legal,legal
+166,Portugal,legal,legal
+167,Rumania,legal,legal
+168,Rusia,legal,legal
+169,San Marino,legal,legal
+170,Serbia,legal,legal
+171,Eslovaquia,legal,legal
+172,Eslovenia,legal,legal
+173,España,legal,legal
+174,Suecia,legal,legal
+175,Suiza,legal,legal
+176,Turquía,legal,legal
+177,Ucrania,legal,legal
+178,Reino Unido,legal,legal
+179,Australia,legal,legal
+180,Fiji,legal,legal
+181,Kiribati,ilegal,ilegal
+182,Islas Marshall,legal,legal
+183,Micronesia,legal,legal
+184,Nueva Zelanda,legal,legal
+185,Nauru,legal,legal
+186,Palau,legal,legal
+187,Papúa Nueva Guinea,ilegal,ilegal
+188,Samoa,ilegal,ilegal
+189,Islas Salomón,ilegal,ilegal
+190,Tonga,ilegal,ilegal
+191,Tuvalu,ilegal,ilegal
+192,Vanuatu,legal,legal
